@@ -17,4 +17,5 @@ ProMusic is a responsive web player built with HTML, CSS, and JavaScript, offeri
 
 ## Usage Instructions
 1. Clone the repository.
-2. Open `index.html` in a web browser.
+2. Open the cloned repository in your preferred code editor (e.g., Visual Studio Code).
+3. Run the project using a live server extension or plugin in your code editor. This will launch the web player in your default web browser.
